@@ -1,8 +1,8 @@
 package stringBreak;
 
-public class WorldBreakII {
+public class WordBreakII {
 
-	public WorldBreakII() {
+	public WordBreakII() {
 		// TODO Auto-generated constructor stub
 	}
 
