@@ -1,17 +1,17 @@
-package tree;
-
-public class BroadSearch {
-
-	public BroadSearch() {
-		// TODO Auto-generated constructor stub
-	}
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
-}
+//package tree;
+//
+//public class BroadSearch {
+//
+//	public BroadSearch() {
+//		// TODO Auto-generated constructor stub
+//	}
+//
+//	public static void main(String[] args) {
+//		// TODO Auto-generated method stub
+//
+//	}
+//
+//}
 
 
 package array;
