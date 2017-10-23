@@ -50,13 +50,14 @@ public class MinimumWindowSubstringI {
 					sub.put(S.charAt(i),sub.get(S.charAt(i))-1 );
 					if(sub.containsValue(-1))
 					{
-						model.put(S.charAt(i), 1);
-						sub.put(S.charAt(i),0 );
-						if(local>(j-i+1)) 
+						if(model.equals(copysub)&&local>(j-i+1)) 
 						{
 							local=(j-i+1);
 							res=S.substring(i,j);
 						}
+						model.put(S.charAt(i), 1);
+						sub.put(S.charAt(i),0 );
+						
 						
 					}
 					break;
