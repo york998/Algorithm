@@ -1,4 +1,4 @@
-package findPayh;
+package findPath;
 
 public class UniquePathI {
 
