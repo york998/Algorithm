@@ -1,5 +1,7 @@
 package tree;
 
+import java.util.Collections;
+
 public class Node {
 
 	Node left;
@@ -10,6 +12,7 @@ public class Node {
 		data = x;
 		left = null;
 		right = null;
+		
 	}
 	
 
